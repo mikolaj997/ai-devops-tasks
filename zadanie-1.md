@@ -1,11 +1,11 @@
-###Czym jest DevOps? Wyjaśnij w 3 zdaniach.
+### Czym jest DevOps? Wyjaśnij w 3 zdaniach.
 
 DevOps to podejście do tworzenia oprogramowania, które łączy działania zespołów deweloperskich (Dev) i operacyjnych (Ops),
 aby przyspieszyć i usprawnić proces dostarczania aplikacji. Jego celem jest automatyzacja,
 ciągła integracja i ciągłe dostarczanie (CI/CD), co pozwala na szybsze wprowadzanie zmian i wyższą jakość oprogramowania.
 DevOps promuje kulturę współpracy, monitorowania i ciągłego doskonalenia.
 
-###Jakie są 3 najpopularniejsze narzędzia używane w DevOps?
+### Jakie są 3 najpopularniejsze narzędzia używane w DevOps?
 Trzy najpopularniejsze narzędzia używane w DevOps to:
 
 Jenkins – narzędzie do automatyzacji, często wykorzystywane do ciągłej integracji i ciągłego dostarczania (CI/CD).
